@@ -1,0 +1,25 @@
+.text-small {
+    font-size: 13px;
+}
+
+.facilities {
+    width: 325px;
+}
+
+.green-lemon {
+    color: #DAFF01;
+}
+
+.button-lilac {
+    background-color: #9353FF;
+}
+
+.posicao {
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao {
+        top:60%;
+    }
+}
